@@ -1,7 +1,7 @@
 ## Hi 👋
 
 - ❄️ Favorite lang: C#
-- ✨ Also familiar with: Java - Kotlin - HTML
+- ✨ Also familiar with: Java - Kotlin
 - 📃 Currently learning Dart and Flutter
 
 ---
