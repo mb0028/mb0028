@@ -21,13 +21,6 @@
 <img src="https://download.blender.org/branding/blender_logo_socket.png" alt="Blender" height="80"/>
 
 #### Other:
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Synthesizer_V_Studio_icon.png" alt="SynthV" height="80"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Utau_logo_large.png" alt="UTAU" height="80"/>
-<img src="https://upload.wikimedia.org/wikipedia/en/6/69/FL_Studio_11_just_logo.png" alt="FL studio" height="80"/>
-<img src="https://www.blockbench.net/images/logos/icon.png" alt="Block bench" height="80"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/IbisPaint_X_Logo.jpg" alt="Ibis paint" height="80"/>
-
-
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Synthesizer_V_Studio_icon.png" alt="SynthV" height="80"/> <img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Utau_logo_large.png" alt="UTAU" height="80"/> <img src="https://upload.wikimedia.org/wikipedia/en/6/69/FL_Studio_11_just_logo.png" alt="FL studio" height="80"/> <img src="https://www.blockbench.net/images/logos/icon.png" alt="Block bench" height="80"/> <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/IbisPaint_X_Logo.jpg" alt="Ibis paint" height="80"/>
 
 
