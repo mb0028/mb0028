@@ -4,6 +4,11 @@
 - ✨ Also familiar with: Java - Kotlin
 - 📃 Currently learning Dart and Flutter
 
+### Todo projects:
+- [ ] File manager app optimize for android tv
+- [ ] Cross-platform Gallery with built-in image editor using [PngComparer28](https://github.com/mb0028/PngComparer28)
+- [ ] Simple Png tuber app (like images react to mic + obs studio support)
+
 ---
 
 [![](https://raw.githubusercontent.com/mb0028/mb0028/main/profile-summary-card-output/nord_bright/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
