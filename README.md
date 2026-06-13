@@ -8,6 +8,7 @@
 - [ ] File manager app optimized for android tv
 - [ ] Cross-platform Gallery with built-in image editor using [PngComparer28](https://github.com/mb0028/PngComparer28)
 - [ ] Simple Png tuber app (like images react to mic + obs studio support)
+- [ ] A minecraft texture pack like [ATMOSPHERICS](https://modrinth.com/mod/atmospherics) for bedrock edition (without [vv](https://learn.microsoft.com/en-us/minecraft/creator/documents/vibrantvisuals/?view=minecraft-bedrock-stable))
 
 ---
 
