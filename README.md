@@ -5,7 +5,7 @@
 - 📃 Currently learning Dart and Flutter
 
 ### Todo projects:
-- [ ] File manager app optimize for android tv
+- [ ] File manager app optimized for android tv
 - [ ] Cross-platform Gallery with built-in image editor using [PngComparer28](https://github.com/mb0028/PngComparer28)
 - [ ] Simple Png tuber app (like images react to mic + obs studio support)
 
