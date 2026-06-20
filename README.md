@@ -1,8 +1,8 @@
 ## Hi 👋
 
 - ❄️ Favorite lang: C#
-- ✨ Also familiar with: Java - Kotlin
-- 📃 Currently learning Dart and Flutter
+- ✨ Also familiar with: Java - Kotlin - Dart
+- 📃 Currently working on [Memories Photos](https://github.com/mb0028/Memories-Photos) and [Gleamy Files](https://github.com/mb0028/Gleamy-Files)
 
 ### Todo projects:
 - [ ] File manager app optimized for android tv
