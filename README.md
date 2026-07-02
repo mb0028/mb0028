@@ -2,15 +2,12 @@
 
 - ❄️ Favorite lang: C#
 - ✨ Also familiar with: Java - Kotlin - Dart
-- 📃 Currently working on [Memories Photos](https://github.com/mb0028/Memories-Photos) and [Gleamy Files](https://github.com/mb0028/Gleamy-Files)
+- 📃 Currently working on [Memories Photos](https://github.com/mb0028/Memories-Photos)
 
 ### Todo projects:
 - [ ] File manager app optimized for android tv
 - [ ] Note taking app (because all other note taking apps have trash UIs)
 - [ ] Cross-platform Gallery with built-in image editor using [PngComparer28](https://github.com/mb0028/PngComparer28)
-- [ ] Simple Png tuber app (like images react to mic + obs studio support)
-- [ ] A minecraft texture pack like [ATMOSPHERICS](https://modrinth.com/mod/atmospherics) for bedrock edition (without [vv](https://learn.microsoft.com/en-us/minecraft/creator/documents/vibrantvisuals/?view=minecraft-bedrock-stable))
-
 ---
 
 [![](https://raw.githubusercontent.com/mb0028/mb0028/main/profile-summary-card-output/nord_bright/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
