@@ -5,9 +5,9 @@
 - 📃 Currently working on [Memories Photos](https://github.com/mb0028/Memories-Photos)
 
 ### Todo projects:
-- [ ] File manager app optimized for android tv
 - [ ] Note taking app (because all other note taking apps have trash UIs)
-- [ ] Cross-platform Gallery with built-in image editor using [PngComparer28](https://github.com/mb0028/PngComparer28)
+
+
 ---
 
 [![](https://raw.githubusercontent.com/mb0028/mb0028/main/profile-summary-card-output/nord_bright/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
