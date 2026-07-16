@@ -4,9 +4,6 @@
 - ✨ Also familiar with: Java - Kotlin - Dart
 - 📃 Currently working on [Memories Photos](https://github.com/mb0028/Memories-Photos)
 
-### Todo projects:
-- [ ] Note taking app (because all other note taking apps have trash UIs)
-
 
 ---
 
