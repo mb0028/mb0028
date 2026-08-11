@@ -1,4 +1,4 @@
-## Hi 👋
+# Hi 👋
 
 - ❄️ Favorite lang: C#
 - ✨ Also familiar with: Java - Kotlin - Dart
