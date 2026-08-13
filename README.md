@@ -3,6 +3,8 @@
 - ❄️ Favorite lang: C#
 - ✨ Also familiar with: Java - Kotlin - Dart
 
+Don't like default android apps? see [Crystal Apps](https://github.com/mb0028/Crystal-Apps).
+
 [![](https://raw.githubusercontent.com/mb0028/mb0028/main/profile-summary-card-output/nord_bright/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
 [![](https://raw.githubusercontent.com/mb0028/mb0028/main/profile-summary-card-output/nord_bright/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/mb0028/mb0028/main/profile-summary-card-output/nord_bright/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
