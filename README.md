@@ -5,7 +5,7 @@
 
 
 ### Other
-[![](https://skillicons.dev/icons?i=java,dart&theme=light)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=cpp,java,dart&theme=light)](https://skillicons.dev)
 
 [![More](https://skillicons.dev/icons?i=androidstudio,blender,unity,godot,vscode,md&theme=light)](https://skillicons.dev)
 
